@@ -1,0 +1,146 @@
+Script started on 2019-10-08 12:03:50-04:00
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ pwd
+/home/bzargar/Tmp/CS2211a/Asn/asn2
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ date
+Tue Oct  8 12:03:55 EDT 2019
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ who am i
+bzargar  pts/53       2019-10-08 12:03
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ ./converter
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+7
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+1
+Enter a character to select the direction for conversion:
+K for conversion from Kilometer to Mile
+M for conversion from Mile to Kilometer
+j
+Enter a character to select the direction for conversion:
+K for conversion from Kilometer to Mile
+M for conversion from Mile to Kilometer
+K
+Enter the float value you wish to convert:1.5
+1.500000 km is equal to 0.932056 mi 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+1
+Enter a character to select the direction for conversion:
+K for conversion from Kilometer to Mile
+M for conversion from Mile to Kilometer
+M
+Enter the float value you wish to convert:1.5
+1.500000 mi is equal to 2.414010 km 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+2
+Enter a character to select the direction for conversion:
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter
+j
+Enter a character to select the direction for conversion:
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter
+M
+Enter the float value you wish to convert:1.5
+1.500000 m is equal to 4.921260 ft 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+2
+Enter a character to select the direction for conversion:
+M for conversion from Meter to Feet
+F for conversion from Feet to Meter
+F
+Enter the float value you wish to convert:1.5
+1.500000 ft is equal to 0.457200 m 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+3
+Enter a character to select the direction for conversion:
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+j
+Enter a character to select the direction for conversion:
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+C
+Enter the float value you wish to convert:1.5
+1.500000 cm is equal to 0.590551 in 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+3
+Enter a character to select the direction for conversion:
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+I
+Enter the float value you wish to convert:1.5
+1.500000 in is equal to 3.810000 cm 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+4
+Enter a character to select the direction for conversion:
+C for conversion from Celcius to Farenheit
+F for conversion from Farenheit to Celcius
+j
+Enter a character to select the direction for conversion:
+C for conversion from Celcius to Farenheit
+F for conversion from Farenheit to Celcius
+C
+Enter the float value you wish to convert:1.5
+1.500000 C is equal to 34.700001 F 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+4
+Enter a character to select the direction for conversion:
+C for conversion from Celcius to Farenheit
+F for conversion from Farenheit to Celcius
+F
+Enter the float value you wish to convert:1.5
+1.500000 F is equal to -16.944445 C 
+Enter an integer from 1-5 to select one of the following options:
+1 - for conversion between Kilometer and Mile
+2 - for conversion between Meter and Feet
+3 - for conversion between Centimetre and Inch
+4 - for conversion between Celsius and Farenheit
+5 - quit
+5
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ exit
+exit
+
+Script done on 2019-10-08 12:05:55-04:00
